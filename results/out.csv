@@ -1,0 +1,5 @@
+CANDIDATE 1,CANDIDATE 2,CANDIDATE 3,c4,c5,c6
+1,0,0,1,2,0
+1,,,1,2,
+,,,,4,
+,,,,WINNER,
